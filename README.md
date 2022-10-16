@@ -46,8 +46,8 @@ This is a repo for maintaining my Portfolio! It has a list of projects and demos
 
 ### Built With
 
--HTML5
--CSS3
+- HTML5
+- CSS3
 - VanillaJS
 
 
